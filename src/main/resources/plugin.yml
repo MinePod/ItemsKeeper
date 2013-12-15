@@ -2,3 +2,4 @@ name: ItemsKeeper
 main: fr.minepod.bukkit.ItemsKeeper.ItemsKeeper
 version: ${project.version}
 author: DarkShimy
+depend: [Vault]
